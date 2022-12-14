@@ -30,14 +30,4 @@ to indicate a sunk ship.
 As soon as all of one player's ships have been sunk, the game ends.
 
 Your grid will look something like below:
-   A B C D E F G H I J '\n'
-1  . . . . . . . . . . 
-2  A . . . . . . . . D
-3  A . . . . . . . . D
-4  A . . . . . . . . D
-5  A . . . . . . . . D
-6  A B B B B . . . . .
-7  . . . . . . . . . .
-8  . . . . . . . . . .
-9  C C . . . . . . . .
-10 . . . . . . . . . .
+![image](https://user-images.githubusercontent.com/95172439/207660930-02565eca-7d20-43c4-971d-6038caf05d15.png)
