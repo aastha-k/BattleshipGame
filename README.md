@@ -29,5 +29,8 @@ announce "hit and sunk". In the physical game, a red peg is placed on the top ed
 to indicate a sunk ship.
 As soon as all of one player's ships have been sunk, the game ends.
 
-Your grid will look something like below:
+Your grid will look something like this:
+
+
+
 ![image](https://user-images.githubusercontent.com/95172439/207660930-02565eca-7d20-43c4-971d-6038caf05d15.png)
